@@ -4,13 +4,6 @@
 
 Me chamo Leonardo, tenho 26 anos e sou natural do Rio Grande do Sul. Sou formado em Enhenharia Elétrica pela Universidade Federal do Rio Grande do Sul (UFRGS), com enfase em inteligência computacional. Possuo experiencia com Python, SQL, Power BI, Excel e relatórios gerenciais. 
 <p align="left">
-    <a href="leonardomateus75@gmail.com">
-        <img 
-            alt="Email" 
-            title="Email" 
-            src="https://custom-icon-badges.demolab.com/badge/-Email%20-teal?color=%23E05D44&style=for-the-badge&logo=Email&logoColor=white&labelColor=%23E05D44"
-        />
-    </a>
     <a href="https://github.com/LeonardoMouraMateus?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
