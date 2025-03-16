@@ -114,7 +114,8 @@ Me chamo Leonardo, tenho 26 anos e sou natural do Rio Grande do Sul. Sou formado
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMouraMateus&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMouraMateus&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=1" 
   />
 
 </p>
