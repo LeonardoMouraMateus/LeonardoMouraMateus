@@ -22,7 +22,7 @@ Me chamo Leonardo, tenho 26 anos e sou natural do Rio Grande do Sul. Sou formado
         <img 
          alt="Email"
          title="leonardomateus75@gmail.com"
-         src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge?color=white&logo=gmail&logoColor=red&labelColor=white" target="_blank">
+         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
     <a href="https://www.linkedin.com/in/leonardomouramateus" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
