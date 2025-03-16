@@ -3,6 +3,7 @@
 **`Data Science`**
 
 Me chamo Leonardo, tenho 26 anos e sou natural do Rio Grande do Sul. Sou formado em Enhenharia Elétrica pela Universidade Federal do Rio Grande do Sul (UFRGS), com enfase em inteligência computacional. Possuo experiencia com Python, SQL, Power BI, Excel e relatórios gerenciais. 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-figueiredo/)
 <p align="left">
     <a href="https://github.com/LeonardoMouraMateus?tab=repositories&sort=stargazers">
         <img 
