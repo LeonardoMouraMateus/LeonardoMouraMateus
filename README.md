@@ -11,7 +11,7 @@ Me chamo Leonardo, tenho 26 anos e sou natural do Rio Grande do Sul. Sou formado
             src="https://custom-icon-badges.demolab.com/github/stars/LeonardoMouraMateus?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardomouramateus)
+    <a [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardomouramateus)</a>    
     <a href="https://github.com/LeonardoMouraMateus?tab=followers">
         <img 
             alt="Seguidores" 
