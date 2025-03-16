@@ -25,7 +25,7 @@ Me chamo Leonardo, tenho 26 anos e sou natural do Rio Grande do Sul. Sou formado
          src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
     <a href="https://www.linkedin.com/in/leonardomouramateus" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=9cf" target="_blank">
     </a>
 </p>
 
